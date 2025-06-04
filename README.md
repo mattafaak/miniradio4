@@ -1,4 +1,4 @@
-# Mini Radio Controller - User Guide (Concise)
+# Mini Radio Controller - User Guide
 
 **Version:** Based on `MiniRadio4.py` script changes up to June 4, 2025.
 
