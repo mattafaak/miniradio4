@@ -4,7 +4,7 @@
 
 ### 1. Introduction
 
-The Mini Radio Controller provides a graphical interface for your ATS-Mini (or compatible Si473x-based) radio receiver via a serial connection. It allows viewing and changing radio settings, monitoring status, and using features like screenshots, memory management, theme exploration, and FM band scanning.
+The Mini Radio Controller provides a graphical interface for your ATS-Mini Si4732-based radio receiver via a serial connection. It allows viewing and changing radio settings, monitoring status, and using features like screenshots, memory management, theme exploration, and FM band scanning.
 
 ### 2. Getting Started
 
@@ -29,8 +29,6 @@ The window includes:
 * **Encoder & FM Scan Controls (Lower Middle):** Visual encoder and FM scan settings.
 * **Radio Status Display (Bottom):** Real-time radio information.
 * **Serial Console (Optional):** Toggled via a checkbox to show raw serial data.
-
-The window is resizable with a minimum size enforced.
 
 ### 4. Detailed GUI Sections
 
